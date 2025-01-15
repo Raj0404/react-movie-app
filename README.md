@@ -5,8 +5,9 @@ https://raj0404.github.io/react-movie-app/
 This is a very basic React app showcases following features:
 1. Fetches Popular movies on Home Page
 2. Provides a search bar to search for desired movies
-3. Add to favorites icon on each movie card
-4. Favorites page to store favorite movies in browser storage
+3. Dynamically updates movie cards as we type
+4. Add to favorites icon on each movie card
+5. Favorites page to store favorite movies in browser storage
 (For this App I've used moviedb API: https://www.themoviedb.org/)
 
 # React + Vite
